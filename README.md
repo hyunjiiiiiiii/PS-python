@@ -1,4 +1,4 @@
-# Problem Solving Repository - Python
+# Problem Solving - Python
 This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
 
 ## 사용 환경
@@ -9,5 +9,5 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 
 ## 참고 링크
 
-- [백준](https://www.acmicpc.net/workbook)
+- [백준](https://www.acmicpc.net/)
 - [프로그래머스](https://school.programmers.co.kr/)
